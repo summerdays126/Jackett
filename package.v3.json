@@ -1,0 +1,17 @@
+{
+  "JackettIndexer": {
+    "name": "Jackett索引器",
+    "description": "集成Jackett索引器搜索，支持Torznab协议多站点搜索。支持全部站点类型（公开/半公开/私有）。",
+    "labels": "索引器,下载,Jackett",
+    "version": "9.9.9",
+    "icon": "Jackett_A.png",
+    "author": "Claude",
+    "level": 2,
+    "system_version": ">=3.0.0",
+    "release": true,
+    "history": {
+      "v9.9.9": "Papa-patch v9.9.9: V3 适配版 — 更新导入路径使用稳定 SDK，移除所有旧路径依赖。保留原版全部功能。",
+      "v1.0.0": "初始版本"
+    }
+  }
+}
