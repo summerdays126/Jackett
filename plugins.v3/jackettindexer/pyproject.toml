@@ -1,8 +1,0 @@
-[project]
-name = "moviepilot-plugin-jackettindexer"
-dynamic = ["version"]
-requires-python = ">=3.12"
-dependencies = []
-
-[project.optional-dependencies]
-# V3 插件无额外第三方依赖，所有能力由宿主提供
