@@ -1,0 +1,9 @@
+{
+  "id": "JackettIndexer",
+  "name": "JackettIndexer",
+  "description": "集成Jackett索引器搜索，支持Torznab协议多站点搜索",
+  "version": "2.0.0",
+  "system_version": ">=3.0.0",
+  "author": "Local",
+  "v3": true
+}
